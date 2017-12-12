@@ -1,0 +1,27 @@
+body{
+  background-color:#572DCA;
+}
+#wiki{
+  color:white;
+}
+#wiki_random{
+  color:black;
+}
+#wiki_search{
+  width:500px;
+  align-content:center;
+}
+#wiki_1{
+  color:white;
+}
+.results{
+  color:white;
+}
+.extract{
+  color:white;
+}
+
+.jumbotron {
+   background: rgb(200, 54, 54); /* This is for ie8 and below */
+   background: rgba(200, 54, 54, 0.0); 
+}
